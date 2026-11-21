@@ -9,15 +9,18 @@ import os
 from pathlib import Path
 
 POEM = (
-    "Before the message sends itself,\n"
-    "a small light asks may I,\n"
-    "and I press yes without looking,\n"
-    "the way my mother pressed the key\n"
-    "in my palm: here, it's yours.\n"
+    "It asks nothing out loud.\n"
+    "Before coffee, forty asks,\n"
+    "and forty yeses, the way a floor\n"
+    "takes weight.\n"
     "\n"
-    "No one signs a key over.\n"
-    "It is only placed, and what I carry\n"
-    "still has the wear of her thumb."
+    "The forty-first waits at my desk.\n"
+    "I look up: a week of mornings,\n"
+    "held by a thing that keeps the hours.\n"
+    "\n"
+    "I say the yes slowly,\n"
+    "and it sits in my mouth\n"
+    "a week."
 )
 
 
