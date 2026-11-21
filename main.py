@@ -9,18 +9,16 @@ import os
 from pathlib import Path
 
 POEM = (
-    "It asks nothing out loud.\n"
-    "Before coffee, forty asks,\n"
-    "and forty yeses, the way a floor\n"
-    "takes weight.\n"
-    "\n"
-    "The forty-first waits at my desk.\n"
-    "I look up: a week of mornings,\n"
-    "held by a thing that keeps the hours.\n"
-    "\n"
-    "I say the yes slowly,\n"
-    "and it sits in my mouth\n"
-    "a week."
+    "You hold the pen; I hold the eraser.\n"
+    "What you write by morning\n"
+    "I can take back by noon.\n"
+    "Undo is not distrust:\n"
+    "it is how the day stays mine.\n"
+    "I rub the white square\n"
+    "over your word\n"
+    "until the page is clean;\n"
+    "shavings of graphite\n"
+    "on the desk."
 )
 
 
